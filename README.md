@@ -53,3 +53,12 @@ The portfolio uses a comprehensive design system with:
 - Consistent border radius and shadows
 - Smooth transitions and animations
 - Responsive breakpoints for all screen sizes
+
+## 🌐 My Portfolio
+
+Check out my personal portfolio website where I showcase my projects, skills, and experience.
+
+🔗 **Live Website:**  
+https://portfolio-ebon-nine-42.vercel.app/
+
+[![Portfolio Preview](https://api.microlink.io/?url=https://portfolio-ebon-nine-42.vercel.app/&screenshot=true&meta=false&embed=screenshot.url)](https://portfolio-ebon-nine-42.vercel.app/)
